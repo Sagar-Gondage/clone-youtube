@@ -1,3 +1,9 @@
+# Credit: [Antonio Erdeljac] (https://www.codewithantonio.com/), [Github] (https://github.com/antonioerdeljac)
+
+Thank you https://github.com/antonioerdeljac for your youtube videos
+Part 1 => https://www.youtube.com/watch?v=ArmPzvHTcfQ
+Part 2 => https://www.youtube.com/watch?v=ig26iRcMavQ
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
